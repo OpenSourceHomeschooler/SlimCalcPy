@@ -8,3 +8,8 @@ The calculator is designed to be a class in the OOP sense, with purely functiona
 The program cascades down through the input equation, refining it further with each pass until it is all simplified.
 This calculator adheres to the order of operations, and will soon allow for major functions such as the logarithms and the trigonometric functions.
 Despite the ease it would provide, this calculator has no dependencies, and operates without even built in libraries.
+
+## Python 3 Support
+To use the calculator with Python 3, use the file in the `Python3Version/`
+directory, as the main file can't be compatible without eliminating support for
+previous versions.
